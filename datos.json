@@ -4,17 +4,17 @@
 [
    {
     "nombre": "Lamborghini Miura", 
-    "imagen":  "imagenes/miura",
+    "imagen":  "imagenes/miura.png",
     "descripcion": "El Lamborghini Miura es un automóvil deportivo producido por la empresa italiana Lamborghini entre 1966 y 1972. Su diseño estaba inspirado en los sport prototipos de la época, como el Ford GT40 y el Ferrari 250 LM, famosos por sus participaciones en las 24 Horas de Le Mans. El Miura revolucionó el concepto de automóvil deportivo por sus características técnicas y la radicalidad de su diseño, dando pie al concepto de superdeportivo." 
    },
    {
     "nombre": "Lamborghini Espada", 
-    "imagen":  "imagenes/espada",
+    "imagen":  "imagenes/espada.png",
     "descripcion": "El Lamborghini Espada es un automóvil de gran turismo que fue producido por el fabricante de automóviles italiano Lamborghini entre 1968 y 1978. Se fabricaron un total de 1217 unidades del Lamborghini Espada, por lo cual se convirtió en el modelo más exitoso de Lamborghini en la época. Su nombre proviene de la espada que los toreros usan para matar a los toros."
    }, 
    {
     "nombre": "Lamborghini Islero", 
-    "imagen":  "imagenes/islero",
+    "imagen":  "imagenes/islero.png",
     "descripcion": "El Lamborghini Islero es un automóvil deportivo producido por el fabricante de automóviles italiano Lamborghini entre 1968 y 1970. Fue el reemplazo para el 400 GT y ofrecía el motor Lamborghini V12. El coche fue presentado en el Salón del Automóvil de Ginebra de 1968. El Islero fue llamado así por el toro Miura Islero, que mató al famoso torero Manuel Rodríguez en Linares el 28 de agosto de 1947. Se fabricaron 2 versiones del Islero, el Islero (1968) y el Islero S (1969), ambas versiones también fueron llamadas Islero 400 GT e Islero 400 GTS." 
    }, 
    {
